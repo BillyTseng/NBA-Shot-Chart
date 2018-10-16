@@ -6,6 +6,6 @@
 .App-header {
     background-color: #1D428A;
     display: flex;
-    align-items: left;
     box-shadow: -1px 0 5px 0 #1D428A;
+    margin-bottom: 70px;
 }

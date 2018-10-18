@@ -1,6 +1,5 @@
 .App-logo {
     height: 35px;
-    padding: 10px 0 10px 40px;
 }
 
 .App-header {
@@ -8,4 +7,5 @@
     display: flex;
     box-shadow: -1px 0 5px 0 #1D428A;
     margin-bottom: 70px;
+    padding: 10px 0 10px 40px;
 }
